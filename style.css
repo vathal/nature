@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: blueviolet;
+
+}
+header{
+    background-color: black;
+    color: white;
+    padding: 16px;
+    text-align: center;
+}
+/*header:hover{
+    background-color: white;
+    coslor: black;
+}*/
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+main{
+    max-width: 550px;
+    margin: 16px;
+}
+
+.post{
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    
+}
+.post img{
+    background-color: white;
+    margin-left: 20px;
+}
+.post p{
+    text-align: justify;
+    font: bold;}
+
